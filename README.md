@@ -1,4 +1,4 @@
-Sure! Here's a `README.md` file for your GitHub repository. This will provide clear instructions for anyone who wants to understand or deploy your Kubernetes setup for MySQL and WordPress.
+Here's a `README.md` file for your GitHub repository. This will provide clear instructions for anyone who wants to understand or deploy your Kubernetes setup for MySQL and WordPress.
 
 ### `README.md`
 
@@ -84,6 +84,11 @@ For local development with Minikube:
   ```
 
 Open the provided URL in your browser to access the WordPress setup page.
+
+For killer coda:
+
+Access this from traffic port using word press port no and check the output. 
+
 
 ### Files Included
 
